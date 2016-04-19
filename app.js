@@ -17810,7 +17810,7 @@ var Router = function (_Backbone$Router) {
 
       _backbone2.default.history.start({
         root: '/',
-        pushState: true
+        pushState: false
       });
     }
   }, {
